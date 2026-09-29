@@ -1,0 +1,6 @@
+{
+  "name": "GlobalTrader Pro",
+  "description": "Live financial market charts, technical analysis signals, auto-trading simulator, and real-time news across Crypto, Stocks, Forex, and Commodities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
